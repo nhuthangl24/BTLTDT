@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Juice Tracker Mini</string>
+    <string name="home_title">Juice Tracker</string>
+    <string name="add_juice">Add New Juice</string>
+    <string name="juice_name_hint">Juice name</string>
+    <string name="juice_desc_hint">Description</string>
+    <string name="rating_label">Rating (Views RatingBar)</string>
+    <string name="save_juice">Save Juice</string>
+    <string name="back">Back</string>
+    <string name="empty_juice_list">No juices tracked yet. Add one!</string>
+</resources>
